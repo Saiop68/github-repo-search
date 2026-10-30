@@ -20,6 +20,7 @@ Open [http://localhost:6060/](http://localhost:6060/).
 * Bottom-up development with [styleguidist](https://github.com/styleguidist/react-styleguidist).
 * Fetch with [apollo-link-rest](https://github.com/apollographql/apollo-link-rest).
 * Rate-limit with [bottleneck](https://github.com/SGrondin/bottleneck/tree/version-1).
+* [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 * Debounce with [lodash.debounce](https://lodash.com/docs/4.17.10#debounce).
 
 ## Preview
